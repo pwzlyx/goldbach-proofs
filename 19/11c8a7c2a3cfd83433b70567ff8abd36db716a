@@ -1,0 +1,19 @@
+lean/PEqualNP/Outside/L_goldbach_replacement_lone_linf.lean
+  s_5fe9ed8ce6bdd7::t_32022ee92f811d 1-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1911c8a7c2a3cfd83433b70567ff8abd36db716a",
+  "prompts": {},
+  "sessions": {
+    "s_5fe9ed8ce6bdd7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20cf2-b67d-7390-818f-f89d32deb38f",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "zengleiyixiao1 <zengleiyixiao1@jd.com>"
+    }
+  }
+}
